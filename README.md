@@ -1,7 +1,8 @@
-# Projeto Gutendex API
+# Projeto LiterAlura Gutendex API
 
 Este projeto visa consumir a API Gutendex para buscar e exibir informações sobre livros disponíveis no Projeto Gutenberg. A API Gutendex fornece acesso a uma vasta coleção de livros gratuitos em domínio público.
 
+Alura + Oracle
 
 ## Visão Geral
 
